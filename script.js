@@ -1,7 +1,3 @@
-function hello() {
-  return 'Hello';
-}
-
-function goodbye() {
-  return 'Goodbye';
+function hello_goodbye() {
+  return 'Hello & Goodbye';
 }
