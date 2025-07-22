@@ -1,0 +1,6 @@
+286e08d Revert "Modification en hello_goodbye() : à annuler"
+0986e88 Ajout d'un fichier avec erreur pour l'exercice
+3ba9812 Modification en hello_goodbye() : à annuler
+57e946b Ajout de la fonction goodbye()
+9187492 Ajout de la fonction hello()
+3b32c6c Initialisation du projet avec README.md
